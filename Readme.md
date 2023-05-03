@@ -1,0 +1,1 @@
+These are just files that perform sentiment analysis, using LSTM and GRU
